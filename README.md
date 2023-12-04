@@ -6,7 +6,10 @@
 <img width="416" alt="green" src="https://github.com/Mebin98/Team84_OSSW/assets/121173175/44fe0150-899c-42c0-8e6b-fd11b3beb31e">
 <img width="416" alt="red" src="https://github.com/Mebin98/Team84_OSSW/assets/121173175/9bf016b7-3e4b-46aa-9381-a048a5b9d086">
 
+## Lirbrary
 
+OpenCV
+Numpy
 
 ## Introduction
 
@@ -28,23 +31,11 @@ git clone https://github.com/Mebin98/Team84_OSSW
 Navigate to the cloned repository's directory:
 cd Team84-OSSW
 
+## Usage
+To detect specific color channels in an image, you should execute the relevant script with the image file as an argument. You can use the 'test_image.jpg' provided in the same directory, or you can replace it with the path to your desired image.
 
-Usage
-To detect specific color channels in an image, run the corresponding script with the image file as an argument. You can use the provided test_image.jpg or replace it with the path to your image.
+For the Detection:
 
-Detect the Red color channel:
+python Detection_RGB.py
 
-python Detection_Red.py test_image.jpg
-
-Detect the Green color channel:
-
-python Detection_Green.py test_image.jpg
-
-Detect the Blue color channel:
-
-python Detection_Blue.py test_image.jpg
-
-For full RGB detection:
-
-python Detection_RGB.py test_image.jpg
-
+Just place the 'test_image.jpg' in the same directory as the scripts and run the desired detection script.
