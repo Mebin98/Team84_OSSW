@@ -15,10 +15,10 @@ This repository houses a set of Python scripts that are designed to detect and e
 Clone this repository to your local machine using the following command:
 
 ```bash
-git clone [https://github.com/Mebin98/Team84_OSSW]
+git clone https://github.com/Mebin98/Team84_OSSW
 
 Navigate to the cloned repository's directory:
-cd [Team84-OSSW]
+cd Team84-OSSW
 
 
 Usage
