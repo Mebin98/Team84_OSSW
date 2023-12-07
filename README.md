@@ -6,7 +6,7 @@
 <img width="416" alt="green" src="https://github.com/Mebin98/Team84_OSSW/assets/121173175/44fe0150-899c-42c0-8e6b-fd11b3beb31e">
 <img width="416" alt="red" src="https://github.com/Mebin98/Team84_OSSW/assets/121173175/9bf016b7-3e4b-46aa-9381-a048a5b9d086">
 
-## Lirbrary
+## Library
 
 OpenCV
 
